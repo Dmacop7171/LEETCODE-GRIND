@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0128-longest-consecutive-sequence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0018-4sum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
