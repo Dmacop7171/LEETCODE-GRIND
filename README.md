@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0056-merge-intervals) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0704-binary-search) |
 ## Dynamic Programming
