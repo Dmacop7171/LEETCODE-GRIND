@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
