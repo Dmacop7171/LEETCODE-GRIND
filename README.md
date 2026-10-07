@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Dmacop7171/LEETCODE-GRIND/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
